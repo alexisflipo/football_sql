@@ -1,0 +1,625 @@
+,Numéro de mallot,Nom,Pays,Né le,Pos.,Club,Entraineur
+0,30.0,L. Chevalier,FRA,6/11/01,Gar.,Lille,C. Galtier
+1,1.0,O. Karnezis,GRE,11/07/85,Gar.,Lille,C. Galtier
+2,16.0,M. Maignan,FRA,3/07/95,Gar.,Lille,C. Galtier
+3,5.0,S. Botman,HOL,12/01/00,Déf.,Lille,C. Galtier
+4,None,I. Bouleghcha,FRA,9/12/02,Déf.,Lille,C. Galtier
+5,29.0,D. Bradaric,CRO,10/12/99,Déf.,Lille,C. Galtier
+6,3.0,T. Djalo,POR,9/04/00,Déf.,Lille,C. Galtier
+7,6.0,J. Fonte,POR,22/12/83,Déf.,Lille,C. Galtier
+8,34.0,N. Innocenti,FRA,19/02/02,Déf.,Lille,C. Galtier
+9,28.0,R. Mandava,MOZ,21/01/94,Déf.,Lille,C. Galtier
+10,26.0,J. Pied,FRA,23/02/89,Déf.,Lille,C. Galtier
+11,2.0,M. Çelik,TUR,17/02/97,Déf.,Lille,C. Galtier
+12,21.0,B. André,FRA,3/08/90,Mil.,Lille,C. Galtier
+13,35.0,R. Ascone,FRA,12/09/03,Mil.,Lille,C. Galtier
+14,7.0,J. Bamba,FRA,26/03/96,Mil.,Lille,C. Galtier
+15,None,A. Camara,GUI,20/05/01,Mil.,Lille,C. Galtier
+16,None,M. Kapi,TUR,8/08/02,Mil.,Lille,C. Galtier
+17,15.0,E. Pizzuto,MEX,13/05/02,Mil.,Lille,C. Galtier
+18,18.0,R. Sanches,POR,18/08/97,Mil.,Lille,C. Galtier
+19,24.0,B. Soumaré,FRA,27/02/99,Mil.,Lille,C. Galtier
+20,8.0,Xeka,POR,10/11/94,Mil.,Lille,C. Galtier
+21,12.0,Y. Yazici,TUR,29/01/97,Mil.,Lille,C. Galtier
+22,None,A. Zekaj,SER,16/04/00,Mil.,Lille,C. Galtier
+23,11.0,L. Araujo,BRE,2/06/96,Att.,Lille,C. Galtier
+24,9.0,J. David,CAN,14/01/00,Att.,Lille,C. Galtier
+25,10.0,J. Ikoné,FRA,2/05/98,Att.,Lille,C. Galtier
+26,None,José Bica,POR,16/06/03,Att.,Lille,C. Galtier
+27,19.0,I. Lihadji,FRA,10/04/02,Att.,Lille,C. Galtier
+28,22.0,T. Weah,USA,22/02/00,Att.,Lille,C. Galtier
+29,17.0,B. Yilmaz,TUR,15/07/85,Att.,Lille,C. Galtier
+30,50.0,D. Franchi,ITA,22/10/02,Gar.,Paris-SG,M. Pochettino
+31,30.0,A. Letellier,FRA,11/12/90,Gar.,Paris-SG,M. Pochettino
+32,1.0,K. Navas,CRI,15/12/86,Gar.,Paris-SG,M. Pochettino
+33,None,M. Randriamamy,MAD,23/04/03,Gar.,Paris-SG,M. Pochettino
+34,16.0,S. Rico,ESP,1/09/93,Gar.,Paris-SG,M. Pochettino
+35,None,Y. Saidani,FRA,20/08/01,Gar.,Paris-SG,M. Pochettino
+36,25.0,M. Bakker,HOL,20/06/00,Déf.,Paris-SG,M. Pochettino
+37,14.0,J. Bernat,ESP,1/03/93,Déf.,Paris-SG,M. Pochettino
+38,31.0,C. Dagba,FRA,9/09/98,Déf.,Paris-SG,M. Pochettino
+39,22.0,A. Diallo,SEN,4/05/96,Déf.,Paris-SG,M. Pochettino
+40,24.0,A. Florenzi,ITA,11/03/91,Déf.,Paris-SG,M. Pochettino
+41,4.0,T. Kehrer,ALL,21/09/96,Déf.,Paris-SG,M. Pochettino
+42,3.0,P. Kimpembe,FRA,13/08/95,Déf.,Paris-SG,M. Pochettino
+43,20.0,L. Kurzawa,FRA,4/09/92,Déf.,Paris-SG,M. Pochettino
+44,5.0,Marquinhos,BRE,14/05/94,Déf.,Paris-SG,M. Pochettino
+45,32.0,T. Pembélé,FRA,9/09/02,Déf.,Paris-SG,M. Pochettino
+46,11.0,A. Di Maria,ARG,14/02/88,Mil.,Paris-SG,M. Pochettino
+47,23.0,J. Draxler,ALL,20/09/93,Mil.,Paris-SG,M. Pochettino
+48,35.0,I. Gharbi,FRA,10/04/04,Mil.,Paris-SG,M. Pochettino
+49,27.0,I. Gueye,SEN,26/09/89,Mil.,Paris-SG,M. Pochettino
+50,21.0,A. Herrera,ESP,14/08/89,Mil.,Paris-SG,M. Pochettino
+51,42.0,A. Kamara,GUI,6/11/04,Mil.,Paris-SG,M. Pochettino
+52,None,M. Kapo,FRA,19/01/01,Mil.,Paris-SG,M. Pochettino
+53,38.0,E. Michut,FRA,4/03/03,Mil.,Paris-SG,M. Pochettino
+54,8.0,L. Paredes,ARG,29/06/94,Mil.,Paris-SG,M. Pochettino
+55,15.0,D. Pereira,POR,9/09/91,Mil.,Paris-SG,M. Pochettino
+56,12.0,Rafinha,BRE,12/02/93,Mil.,Paris-SG,M. Pochettino
+57,36.0,K. Ruiz-Atil,FRA,26/08/02,Mil.,Paris-SG,M. Pochettino
+58,19.0,P. Sarabia,ESP,11/05/92,Mil.,Paris-SG,M. Pochettino
+59,34.0,X. Simons,HOL,21/04/03,Mil.,Paris-SG,M. Pochettino
+60,6.0,M. Verratti,ITA,5/11/92,Mil.,Paris-SG,M. Pochettino
+61,9.0,M. Icardi,ARG,19/02/93,Att.,Paris-SG,M. Pochettino
+62,18.0,M. Kean,ITA,28/02/00,Att.,Paris-SG,M. Pochettino
+63,7.0,K. Mbappé,FRA,20/12/98,Att.,Paris-SG,M. Pochettino
+64,39.0,K. Nagera,FRA,21/02/02,Att.,Paris-SG,M. Pochettino
+65,10.0,Neymar,BRE,5/02/92,Att.,Paris-SG,M. Pochettino
+66,40.0,B. Lecomte,FRA,26/04/91,Gar.,Monaco,N. Kovac
+67,16.0,Y. Liénard,FRA,None,Gar.,Monaco,N. Kovac
+68,1.0,R. Majecki,POL,16/11/99,Gar.,Monaco,N. Kovac
+69,30.0,V. Mannone,ITA,2/03/88,Gar.,Monaco,N. Kovac
+70,26.0,R. Aguilar,FRA,26/04/93,Déf.,Monaco,N. Kovac
+71,32.0,B. Badiashile,FRA,26/03/01,Déf.,Monaco,N. Kovac
+72,2.0,F. Ballo-Touré,FRA,3/01/97,Déf.,Monaco,N. Kovac
+73,20.0,A. Disasi,FRA,11/03/98,Déf.,Monaco,N. Kovac
+74,3.0,G. Maripan,CHL,6/05/94,Déf.,Monaco,N. Kovac
+75,34.0,C. Matsima,FRA,15/05/02,Déf.,Monaco,N. Kovac
+76,29.0,D. Sidibé,FRA,29/07/92,Déf.,Monaco,N. Kovac
+77,None,Y. Aït-Bennasser,MAR,7/07/96,Mil.,Monaco,N. Kovac
+78,12.0,Caio Henrique,BRE,31/07/97,Mil.,Monaco,N. Kovac
+79,37.0,S. Diop,FRA,9/06/00,Mil.,Monaco,N. Kovac
+80,4.0,F. Fabregas,ESP,4/05/87,Mil.,Monaco,N. Kovac
+81,22.0,Y. Fofana,FRA,10/01/99,Mil.,Monaco,N. Kovac
+82,17.0,A. Golovine,RUS,30/05/96,Mil.,Monaco,N. Kovac
+83,43.0,S. Grandsir,FRA,14/08/96,Mil.,Monaco,N. Kovac
+84,35.0,F. Luis,POR,19/08/99,Mil.,Monaco,N. Kovac
+85,36.0,E. Matazo,BEL,15/02/02,Mil.,Monaco,N. Kovac
+86,38.0,E. Millot,FRA,17/06/02,Mil.,Monaco,N. Kovac
+87,8.0,A. Tchouaméni,FRA,27/01/00,Mil.,Monaco,N. Kovac
+88,9.0,W. Ben Yedder,FRA,12/08/90,Att.,Monaco,N. Kovac
+89,27.0,K. Diatta,SEN,25/02/99,Att.,Monaco,N. Kovac
+90,13.0,W. Geubbels,FRA,16/08/01,Att.,Monaco,N. Kovac
+91,10.0,S. Jovetic,MNE,2/11/89,Att.,Monaco,N. Kovac
+92,11.0,G. Martins,POR,11/05/95,Att.,Monaco,N. Kovac
+93,19.0,P. Pellegri,ITA,17/03/01,Att.,Monaco,N. Kovac
+94,31.0,K. Volland,ALL,30/07/92,Att.,Monaco,N. Kovac
+95,40.0,M. Barcola,FRA,14/05/99,Gar.,Lyon,P. Bosz
+96,1.0,A. Lopes,POR,1/10/90,Gar.,Lyon,P. Bosz
+97,30.0,J. Pollersbeck,ALL,16/08/94,Gar.,Lyon,P. Bosz
+98,26.0,M. Bard,FRA,6/11/00,Déf.,Lyon,P. Bosz
+99,3.0,D. Benlamri,ALG,25/12/89,Déf.,Lyon,P. Bosz
+100,22.0,M. De Sciglio,ITA,20/10/92,Déf.,Lyon,P. Bosz
+101,5.0,J. Denayer,BEL,28/06/95,Déf.,Lyon,P. Bosz
+102,2.0,S. Diomandé,CIV,9/04/01,Déf.,Lyon,P. Bosz
+103,14.0,L. Dubois,FRA,14/09/94,Déf.,Lyon,P. Bosz
+104,33.0,M. Gusto,FRA,19/05/03,Déf.,Lyon,P. Bosz
+105,6.0,Marcelo,BRE,20/05/87,Déf.,Lyon,P. Bosz
+106,19.0,C. Özkaçar,TUR,6/10/00,Déf.,Lyon,P. Bosz
+107,8.0,H. Aouar,FRA,30/06/98,Mil.,Lyon,P. Bosz
+108,None,Camilo,BRE,23/02/99,Mil.,Lyon,P. Bosz
+109,25.0,M. Caqueret,FRA,15/02/00,Mil.,Lyon,P. Bosz
+110,18.0,R. Cherki,FRA,17/08/03,Mil.,Lyon,P. Bosz
+111,28.0,F. Da Silva,FRA,None,Mil.,Lyon,P. Bosz
+112,39.0,B. Guimaraes,BRE,16/11/97,Mil.,Lyon,P. Bosz
+113,23.0,T. Mendes,BRE,15/03/92,Mil.,Lyon,P. Bosz
+114,12.0,L. Paqueta,BRE,27/08/97,Mil.,Lyon,P. Bosz
+115,29.0,Y. Soumaré,FRA,23/06/00,Mil.,Lyon,P. Bosz
+116,27.0,M. Cornet,CIV,27/09/96,Att.,Lyon,P. Bosz
+117,10.0,M. Depay,HOL,13/02/94,Att.,Lyon,P. Bosz
+118,11.0,T. Kadewere,ZIM,5/01/96,Att.,Lyon,P. Bosz
+119,20.0,I. Slimani,ALG,18/06/88,Att.,Lyon,P. Bosz
+120,7.0,K. Toko Ekambi,CAM,14/09/92,Att.,Lyon,P. Bosz
+121,30.0,S. Mandanda,FRA,28/03/85,Gar.,Marseille,J. Sampaoli
+122,1.0,S. Ngapandouetnbu,CAM,12/04/03,Gar.,Marseille,J. Sampaoli
+123,16.0,Y. Pelé,FRA,4/11/82,Gar.,Marseille,J. Sampaoli
+124,50.0,F. Vanni,FRA,20/07/02,Gar.,Marseille,J. Sampaoli
+125,18.0,J. Amavi,FRA,9/03/94,Déf.,Marseille,J. Sampaoli
+126,5.0,L. Balerdi,ARG,26/01/99,Déf.,Marseille,J. Sampaoli
+127,15.0,D. Caleta-Car,CRO,17/09/96,Déf.,Marseille,J. Sampaoli
+128,3.0,A. Gonzalez,ESP,8/01/90,Déf.,Marseille,J. Sampaoli
+129,4.0,B. Kamara,FRA,23/11/99,Déf.,Marseille,J. Sampaoli
+130,29.0,P. Lirola,ESP,13/08/97,Déf.,Marseille,J. Sampaoli
+131,25.0,Y. Nagatomo,JAP,12/09/86,Déf.,Marseille,J. Sampaoli
+132,32.0,L. Perrin,FRA,19/11/98,Déf.,Marseille,J. Sampaoli
+133,20.0,C. Rocchia,FRA,10/02/98,Déf.,Marseille,J. Sampaoli
+134,2.0,H. Sakai,JAP,12/04/90,Déf.,Marseille,J. Sampaoli
+135,38.0,U. Bertelli,FRA,15/07/03,Mil.,Marseille,J. Sampaoli
+136,17.0,M. Cuisance,FRA,16/08/99,Mil.,Marseille,J. Sampaoli
+137,22.0,P. Gueye,FRA,24/01/99,Mil.,Marseille,J. Sampaoli
+138,24.0,S. Khaoui,TUN,27/04/95,Mil.,Marseille,J. Sampaoli
+139,8.0,O. Ntcham,FRA,9/02/96,Mil.,Marseille,J. Sampaoli
+140,10.0,D. Payet,FRA,29/03/87,Mil.,Marseille,J. Sampaoli
+141,21.0,V. Rongier,FRA,7/12/94,Mil.,Marseille,J. Sampaoli
+142,41.0,C. Souaré,FRA,3/09/02,Mil.,Marseille,J. Sampaoli
+143,39.0,O. Targhalline,MAR,20/05/02,Mil.,Marseille,J. Sampaoli
+144,9.0,D. Benedetto,ARG,17/05/90,Att.,Marseille,J. Sampaoli
+145,None,A. Dieng,SEN,1/09/00,Att.,Marseille,J. Sampaoli
+146,28.0,V. Germain,FRA,17/04/90,Att.,Marseille,J. Sampaoli
+147,11.0,Luis Henrique,BRE,14/12/01,Att.,Marseille,J. Sampaoli
+148,19.0,A. Milik,POL,28/02/94,Att.,Marseille,J. Sampaoli
+149,26.0,F. Thauvin,FRA,26/01/93,Att.,Marseille,J. Sampaoli
+150,30.0,P. Bonet,FRA,13/02/03,Gar.,Rennes,B. Genesio
+151,16.0,A. Gomis,SEN,5/09/93,Gar.,Rennes,B. Genesio
+152,1.0,R. Salin,FRA,29/07/84,Gar.,Rennes,B. Genesio
+153,6.0,N. Aguerd,MAR,30/03/96,Déf.,Rennes,B. Genesio
+154,3.0,D. Da Silva,FRA,17/05/88,Déf.,Rennes,B. Genesio
+155,5.0,H. Dalbert,BRE,8/09/93,Déf.,Rennes,B. Genesio
+156,None,N. Diallo,FRA,29/03/96,Déf.,Rennes,B. Genesio
+157,17.0,F. Maouassa,FRA,6/07/98,Déf.,Rennes,B. Genesio
+158,4.0,G. Nyamsi,FRA,22/01/97,Déf.,Rennes,B. Genesio
+159,38.0,W. Omari,FRA,23/04/00,Déf.,Rennes,B. Genesio
+160,34.0,B. Soppy,FRA,21/02/02,Déf.,Rennes,B. Genesio
+161,27.0,H. Traoré,MLI,27/01/92,Déf.,Rennes,B. Genesio
+162,31.0,A. Truffert,FRA,20/11/01,Déf.,Rennes,B. Genesio
+163,14.0,B. Bourigeaud,FRA,14/01/94,Mil.,Rennes,B. Genesio
+164,10.0,E. Camavinga,FRA,10/11/02,Mil.,Rennes,B. Genesio
+165,8.0,C. Grenier,FRA,7/01/91,Mil.,Rennes,B. Genesio
+166,12.0,J. Léa-Siliki,FRA,12/06/96,Mil.,Rennes,B. Genesio
+167,28.0,J. Martin,FRA,9/04/90,Mil.,Rennes,B. Genesio
+168,15.0,S. Nzonzi,FRA,15/12/88,Mil.,Rennes,B. Genesio
+169,20.0,F. Tait,FRA,2/02/93,Mil.,Rennes,B. Genesio
+170,39.0,L. Ugochukwu,FRA,26/03/04,Mil.,Rennes,B. Genesio
+171,22.0,R. Del Castillo,FRA,29/03/96,Att.,Rennes,B. Genesio
+172,18.0,J. Doku,BEL,27/05/02,Att.,Rennes,B. Genesio
+173,19.0,G. Gboho,FRA,14/01/01,Att.,Rennes,B. Genesio
+174,9.0,S. Guirassy,FRA,12/03/96,Att.,Rennes,B. Genesio
+175,23.0,A. Hunou,FRA,19/01/94,Att.,Rennes,B. Genesio
+176,7.0,M. Terrier,FRA,4/03/97,Att.,Rennes,B. Genesio
+177,30.0,W. Farinez,VEN,15/02/98,Gar.,Lens,F. Haise
+178,16.0,J. Leca,FRA,21/09/85,Gar.,Lens,F. Haise
+179,None,Y. Pandor,FRA,1/05/01,Gar.,Lens,F. Haise
+180,4.0,L. Badé,FRA,11/04/00,Déf.,Lens,F. Haise
+181,19.0,I. Boura,FRA,14/08/00,Déf.,Lens,F. Haise
+182,11.0,J. Clauss,FRA,25/09/92,Déf.,Lens,F. Haise
+183,5.0,Z. Diallo,FRA,13/08/86,Déf.,Lens,F. Haise
+184,15.0,S. Fortes,CAV,17/04/92,Déf.,Lens,F. Haise
+185,24.0,J. Gradit,FRA,24/11/92,Déf.,Lens,F. Haise
+186,21.0,M. Haïdara,MLI,2/12/92,Déf.,Lens,F. Haise
+187,33.0,O. Kamara,FRA,29/12/04,Déf.,Lens,F. Haise
+188,14.0,F. Medina,ARG,28/05/99,Déf.,Lens,F. Haise
+189,13.0,C. Michelin,FRA,11/05/97,Déf.,Lens,F. Haise
+190,3.0,I. Sylla,GUI,1/01/93,Déf.,Lens,F. Haise
+191,20.0,C. Traoré,MLI,31/03/95,Déf.,Lens,F. Haise
+192,18.0,Y. Cahuzac,FRA,18/01/85,Mil.,Lens,F. Haise
+193,None,B. Camara,FRA,None,Mil.,Lens,F. Haise
+194,28.0,C. Doucouré,MLI,8/01/00,Mil.,Lens,F. Haise
+195,8.0,S. Fofana,CIV,7/05/95,Mil.,Lens,F. Haise
+196,10.0,G. Kakuta,RDC,21/06/91,Mil.,Lens,F. Haise
+197,33.0,A. Louveau,FRA,1/02/00,Mil.,Lens,F. Haise
+198,22.0,T. Mauricio,FRA,22/03/94,Mil.,Lens,F. Haise
+199,None,A. Oudjani,FRA,29/08/01,Mil.,Lens,F. Haise
+200,None,D. Pereira Da...,POR,5/01/01,Mil.,Lens,F. Haise
+201,None,J. Varane,FRA,9/09/01,Mil.,Lens,F. Haise
+202,23.0,S. Banza,FRA,13/08/96,Att.,Lens,F. Haise
+203,9.0,I. Ganago,CAM,16/02/99,Att.,Lens,F. Haise
+204,25.0,C. Jean,FRA,15/07/95,Att.,Lens,F. Haise
+205,29.0,A. Kalimuendo,FRA,20/01/02,Att.,Lens,F. Haise
+206,7.0,F. Sotoca,FRA,25/10/90,Att.,Lens,F. Haise
+207,None,A. Sow,SEN,9/05/00,Att.,Lens,F. Haise
+208,16.0,D. Bertaud,FRA,6/06/98,Gar.,Montpellier,O. Dal Oglio
+209,30.0,M. Carvalho,FRA,28/04/99,Gar.,Montpellier,O. Dal Oglio
+210,1.0,J. Omlin,SUI,10/01/94,Gar.,Montpellier,O. Dal Oglio
+211,3.0,D. Congré,FRA,5/04/85,Déf.,Montpellier,O. Dal Oglio
+212,31.0,N. Cozza,FRA,8/01/99,Déf.,Montpellier,O. Dal Oglio
+213,4.0,V. Hilton,BRE,13/09/77,Déf.,Montpellier,O. Dal Oglio
+214,5.0,P. Mendes,POR,1/10/90,Déf.,Montpellier,O. Dal Oglio
+215,8.0,A. Oyongo,CAM,22/06/91,Déf.,Montpellier,O. Dal Oglio
+216,7.0,M. Ristic,SER,31/10/95,Déf.,Montpellier,O. Dal Oglio
+217,2.0,A. Souquet,FRA,12/02/92,Déf.,Montpellier,O. Dal Oglio
+218,17.0,T. Tamas,FRA,20/02/01,Déf.,Montpellier,O. Dal Oglio
+219,27.0,C. Vidal,FRA,18/06/00,Déf.,Montpellier,O. Dal Oglio
+220,26.0,S. Benchamma,FRA,25/06/00,Mil.,Montpellier,O. Dal Oglio
+221,13.0,J. Chotard,FRA,24/09/01,Mil.,Montpellier,O. Dal Oglio
+222,20.0,K. Dolly,AFS,22/01/93,Mil.,Montpellier,O. Dal Oglio
+223,12.0,J. Ferri,FRA,12/03/92,Mil.,Montpellier,O. Dal Oglio
+224,14.0,D. Le Tallec,FRA,19/04/90,Mil.,Montpellier,O. Dal Oglio
+225,25.0,F. Mollet,FRA,19/11/91,Mil.,Montpellier,O. Dal Oglio
+226,6.0,J. Sambia,FRA,7/09/96,Mil.,Montpellier,O. Dal Oglio
+227,11.0,T. Savanier,FRA,22/12/91,Mil.,Montpellier,O. Dal Oglio
+228,33.0,S. Wahi,FRA,2/01/03,Mil.,Montpellier,O. Dal Oglio
+229,18.0,Y. Ammour,FRA,21/05/99,Att.,Montpellier,O. Dal Oglio
+230,None,A. Ben Achour,FRA,1/02/02,Att.,Montpellier,O. Dal Oglio
+231,9.0,A. Delort,ALG,9/10/91,Att.,Montpellier,O. Dal Oglio
+232,10.0,G. Laborde,FRA,3/05/94,Att.,Montpellier,O. Dal Oglio
+233,None,B. Makouana,CON,28/09/02,Att.,Montpellier,O. Dal Oglio
+234,19.0,S. Mavididi,ANG,31/05/98,Att.,Montpellier,O. Dal Oglio
+235,32.0,P. Skuletic,SER,29/06/90,Att.,Montpellier,O. Dal Oglio
+236,24.0,I. Yun,CDS,7/03/92,Att.,Montpellier,O. Dal Oglio
+237,40.0,W. Benitez,ARG,19/01/93,Gar.,Nice,A. Ursea
+238,16.0,T. Boulhendi,FRA,9/04/01,Gar.,Nice,A. Ursea
+239,30.0,Y. Cardinale,FRA,27/03/94,Gar.,Nice,A. Ursea
+240,50.0,J. Rolland,FRA,31/03/01,Gar.,Nice,A. Ursea
+241,20.0,Y. Atal,ALG,17/05/96,Déf.,Nice,A. Ursea
+242,3.0,R. Bambu,BRE,12/11/97,Déf.,Nice,A. Ursea
+243,38.0,N. Crétier,FRA,14/11/01,Déf.,Nice,A. Ursea
+244,5.0,F. Daniliuc,AUT,27/04/01,Déf.,Nice,A. Ursea
+245,4.0,Dante,BRE,18/10/83,Déf.,Nice,A. Ursea
+246,13.0,H. Kamara,FRA,5/03/94,Déf.,Nice,A. Ursea
+247,23.0,J. Lotomba,SUI,29/09/98,Déf.,Nice,A. Ursea
+248,2.0,S. Nsoki,FRA,9/04/99,Déf.,Nice,A. Ursea
+249,24.0,A. Pelmard,FRA,12/03/00,Déf.,Nice,A. Ursea
+250,36.0,T. Pionnier-Ber...,FRA,21/01/02,Déf.,Nice,A. Ursea
+251,36.0,L. Prso,FRA,18/01/01,Déf.,Nice,A. Ursea
+252,18.0,W. Saliba,FRA,24/03/01,Déf.,Nice,A. Ursea
+253,35.0,S. Ben Seghir,FRA,24/02/03,Mil.,Nice,A. Ursea
+254,28.0,H. Boudaoui,ALG,23/09/99,Mil.,Nice,A. Ursea
+255,None,S. Kari,FRA,7/02/02,Mil.,Nice,A. Ursea
+256,8.0,P. Lees-Melou,FRA,25/05/93,Mil.,Nice,A. Ursea
+257,29.0,J. Reine-Adélaïde,FRA,17/01/98,Mil.,Nice,A. Ursea
+258,6.0,M. Schneiderlin,FRA,8/11/89,Mil.,Nice,A. Ursea
+259,33.0,M. Sellouki,FRA,None,Mil.,Nice,A. Ursea
+260,19.0,K. Thuram,FRA,26/03/01,Mil.,Nice,A. Ursea
+261,25.0,J. Todibo,FRA,30/12/99,Mil.,Nice,A. Ursea
+262,27.0,A. Trouillet,FRA,23/12/00,Mil.,Nice,A. Ursea
+263,34.0,P. Wade,FRA,17/04/00,Mil.,Nice,A. Ursea
+264,10.0,A. Claude-Maurice,FRA,6/06/98,Att.,Nice,A. Ursea
+265,9.0,K. Dolberg,DAN,6/10/97,Att.,Nice,A. Ursea
+266,11.0,A. Gouiri,FRA,16/02/00,Att.,Nice,A. Ursea
+267,22.0,R. Lopes,POR,28/12/95,Att.,Nice,A. Ursea
+268,7.0,M. Maolida,FRA,14/02/99,Att.,Nice,A. Ursea
+269,14.0,D. Ndoye,SUI,25/10/00,Att.,Nice,A. Ursea
+270,None,A. Parsemain,FRA,17/05/02,Att.,Nice,A. Ursea
+271,None,A. Sotona,IRL,7/12/02,Att.,Nice,A. Ursea
+272,None,K. Williams,ANG,12/03/03,Att.,Nice,A. Ursea
+273,40.0,O. Ba,SEN,6/06/02,Gar.,Metz,F. Antonetti
+274,30.0,M. Caillard,FRA,12/05/94,Gar.,Metz,F. Antonetti
+275,16.0,A. Oukidja,ALG,19/07/88,Gar.,Metz,F. Antonetti
+276,22.0,E. Boahene,GHA,6/03/00,Déf.,Metz,F. Antonetti
+277,21.0,J. Boye,GHA,23/04/87,Déf.,Metz,F. Antonetti
+278,2.0,D. Bronn,TUN,19/06/95,Déf.,Metz,F. Antonetti
+279,28.0,M. Cabit,FRA,3/06/93,Déf.,Metz,F. Antonetti
+280,18.0,F. Centonze,FRA,16/01/96,Déf.,Metz,F. Antonetti
+281,17.0,T. Delaine,FRA,24/03/92,Déf.,Metz,F. Antonetti
+282,6.0,M. Fofana,MLI,21/01/98,Déf.,Metz,F. Antonetti
+283,23.0,B. Kouyaté,MLI,15/04/97,Déf.,Metz,F. Antonetti
+284,29.0,L. Lacroix,FRA,6/02/03,Déf.,Metz,F. Antonetti
+285,3.0,M. Udol,FRA,20/03/96,Déf.,Metz,F. Antonetti
+286,5.0,V. Angban,CIV,29/09/96,Mil.,Metz,F. Antonetti
+287,22.0,Y. Maziz,FRA,24/06/98,Mil.,Metz,F. Antonetti
+288,19.0,H. Maïga,CIV,1/01/96,Mil.,Metz,F. Antonetti
+289,4.0,K. N'Doram,FRA,22/01/96,Mil.,Metz,F. Antonetti
+290,14.0,V. Pajot,FRA,19/08/90,Mil.,Metz,F. Antonetti
+291,15.0,P. Sarr,SEN,14/09/02,Mil.,Metz,F. Antonetti
+292,12.0,W. Tchimbembé,FRA,21/04/98,Mil.,Metz,F. Antonetti
+293,8.0,B. Traoré,MLI,20/08/01,Mil.,Metz,F. Antonetti
+294,9.0,T. Ambrose,FRA,28/03/97,Att.,Metz,F. Antonetti
+295,10.0,F. Boulaya,FRA,25/02/93,Att.,Metz,F. Antonetti
+296,27.0,V. Dias Goncalves,CAV,10/01/96,Att.,Metz,F. Antonetti
+297,13.0,M. Gueye,SEN,13/03/98,Att.,Metz,F. Antonetti
+298,24.0,A. Leya Iseka,BEL,15/11/97,Att.,Metz,F. Antonetti
+299,11.0,O. Nguette,SEN,8/07/94,Att.,Metz,F. Antonetti
+300,7.0,I. Niane,SEN,11/03/99,Att.,Metz,F. Antonetti
+301,26.0,P. Yade,SEN,5/01/00,Att.,Metz,F. Antonetti
+302,1.0,S. Bajic,FRA,23/12/01,Gar.,Saint-Étienne,C. Puel
+303,50.0,B. Fall,SEN,3/02/01,Gar.,Saint-Étienne,C. Puel
+304,40.0,E. Green,FRA,19/07/00,Gar.,Saint-Étienne,C. Puel
+305,30.0,J. Moulin,FRA,13/01/86,Gar.,Saint-Étienne,C. Puel
+306,31.0,A. Bakayoko,CIV,15/12/02,Déf.,Saint-Étienne,C. Puel
+307,66.0,P. Cissé,SEN,14/09/95,Déf.,Saint-Étienne,C. Puel
+308,26.0,M. Debuchy,FRA,28/07/85,Déf.,Saint-Étienne,C. Puel
+309,None,S. Karamoko,FRA,10/10/99,Déf.,Saint-Étienne,C. Puel
+310,5.0,T. Kolodziejczak,FRA,1/10/91,Déf.,Saint-Étienne,C. Puel
+311,27.0,Y. Maçon,FRA,1/10/98,Déf.,Saint-Étienne,C. Puel
+312,2.0,H. Moukoudi,FRA,27/11/97,Déf.,Saint-Étienne,C. Puel
+313,4.0,P. Retsos,GRE,9/08/98,Déf.,Saint-Étienne,C. Puel
+314,11.0,G. Silva,BRE,13/05/91,Déf.,Saint-Étienne,C. Puel
+315,31.0,N. Sissoko,FRA,7/03/97,Déf.,Saint-Étienne,C. Puel
+316,35.0,R. Souici,FRA,28/02/98,Déf.,Saint-Étienne,C. Puel
+317,35.0,S. Sow,FRA,4/07/02,Déf.,Saint-Étienne,C. Puel
+318,13.0,M. Trauco,PER,25/08/92,Déf.,Saint-Étienne,C. Puel
+319,36.0,M. Tshibuabua,FRA,8/01/02,Déf.,Saint-Étienne,C. Puel
+320,17.0,A. Aouchiche,FRA,15/07/02,Mil.,Saint-Étienne,C. Puel
+321,15.0,B. Benkhedim,FRA,20/04/01,Mil.,Saint-Étienne,C. Puel
+322,7.0,R. Boudebouz,ALG,19/02/90,Mil.,Saint-Étienne,C. Puel
+323,8.0,M. Camara,FRA,30/06/98,Mil.,Saint-Étienne,C. Puel
+324,39.0,B. Gabard,FRA,28/01/00,Mil.,Saint-Étienne,C. Puel
+325,33.0,L. Gourna-Douath,FRA,6/08/03,Mil.,Saint-Étienne,C. Puel
+326,21.0,R. Hamouma,FRA,29/03/87,Mil.,Saint-Étienne,C. Puel
+327,22.0,K. Monnet-Paquet,FRA,19/08/88,Mil.,Saint-Étienne,C. Puel
+328,34.0,A. Moueffek,FRA,9/04/01,Mil.,Saint-Étienne,C. Puel
+329,19.0,Y. Neyou,CAM,3/01/97,Mil.,Saint-Étienne,C. Puel
+330,38.0,T. Tormin,FRA,29/06/01,Mil.,Saint-Étienne,C. Puel
+331,28.0,Z. Youssouf,FRA,11/07/99,Mil.,Saint-Étienne,C. Puel
+332,29.0,C. Abi,FRA,12/04/00,Att.,Saint-Étienne,C. Puel
+333,20.0,D. Bouanga,GAB,11/11/94,Att.,Saint-Étienne,C. Puel
+334,None,E. Correia,GUB,6/06/00,Att.,Saint-Étienne,C. Puel
+335,10.0,W. Khazri,TUN,8/02/91,Att.,Saint-Étienne,C. Puel
+336,14.0,A. Modeste,FRA,14/04/88,Att.,Saint-Étienne,C. Puel
+337,18.0,A. Nordin,FRA,17/06/98,Att.,Saint-Étienne,C. Puel
+338,32.0,M. Rivera,FRA,30/05/02,Att.,Saint-Étienne,C. Puel
+339,36.0,A. Sidibé,FRA,9/02/02,Att.,Saint-Étienne,C. Puel
+340,1.0,B. Costil,FRA,3/07/87,Gar.,Bordeaux,J-L. Gasset
+341,30.0,D. Lima Semedo,FRA,27/04/02,Gar.,Bordeaux,J-L. Gasset
+342,50.0,C. Michel,BEL,20/03/00,Gar.,Bordeaux,J-L. Gasset
+343,16.0,G. Poussin,FRA,13/01/99,Gar.,Bordeaux,J-L. Gasset
+344,40.0,D. Rouyard,FRA,17/08/99,Gar.,Bordeaux,J-L. Gasset
+345,24.0,P. Baysse,FRA,18/05/88,Déf.,Bordeaux,J-L. Gasset
+346,23.0,L. Benito,SUI,7/01/92,Déf.,Bordeaux,J-L. Gasset
+347,21.0,L. Bessilé,FRA,19/02/99,Déf.,Bordeaux,J-L. Gasset
+348,34.0,M. Bokélé Mputu,FRA,12/02/00,Déf.,Bordeaux,J-L. Gasset
+349,34.0,D. Cardoso,MAO,13/12/94,Déf.,Bordeaux,J-L. Gasset
+350,14.0,V. Jovanovic,SER,17/05/96,Déf.,Bordeaux,J-L. Gasset
+351,6.0,L. Koscielny,FRA,10/09/85,Déf.,Bordeaux,J-L. Gasset
+352,25.0,E. Kwateng,FRA,9/04/97,Déf.,Bordeaux,J-L. Gasset
+353,4.0,E. Mexer,MOZ,8/09/88,Déf.,Bordeaux,J-L. Gasset
+354,29.0,M. Poundjé,FRA,16/08/92,Déf.,Bordeaux,J-L. Gasset
+355,35.0,I. Sow,FRA,19/02/01,Déf.,Bordeaux,J-L. Gasset
+356,19.0,Y. Adli,FRA,29/07/00,Mil.,Bordeaux,J-L. Gasset
+357,26.0,T. Basic,CRO,25/11/96,Mil.,Bordeaux,J-L. Gasset
+358,27.0,T. Lacoux,FRA,25/01/02,Mil.,Bordeaux,J-L. Gasset
+359,5.0,Otavio,BRE,4/05/94,Mil.,Bordeaux,J-L. Gasset
+360,15.0,J. Seri,CIV,19/07/91,Mil.,Bordeaux,J-L. Gasset
+361,None,I. Sissokho,MLI,30/01/02,Mil.,Bordeaux,J-L. Gasset
+362,17.0,M. Zerkane,FRA,15/07/99,Mil.,Bordeaux,J-L. Gasset
+363,32.0,D. Bakwa,FRA,26/08/02,Att.,Bordeaux,J-L. Gasset
+364,8.0,H. Ben Arfa,FRA,7/03/87,Att.,Bordeaux,J-L. Gasset
+365,7.0,J. Briand,FRA,2/08/85,Att.,Bordeaux,J-L. Gasset
+366,12.0,N. De Préville,FRA,8/01/91,Att.,Bordeaux,J-L. Gasset
+367,37.0,L. Delaurier-Ch...,FRA,22/04/02,Att.,Bordeaux,J-L. Gasset
+368,39.0,I. Diarra,FRA,19/05/98,Att.,Bordeaux,J-L. Gasset
+369,18.0,U. Hwang,CDS,28/08/92,Att.,Bordeaux,J-L. Gasset
+370,10.0,S. Kalu,NGA,26/08/97,Att.,Bordeaux,J-L. Gasset
+371,36.0,S. Mara,FRA,30/07/02,Att.,Bordeaux,J-L. Gasset
+372,28.0,R. Oudin,FRA,18/11/96,Att.,Bordeaux,J-L. Gasset
+373,31.0,A. Traoré,FRA,7/03/02,Att.,Bordeaux,J-L. Gasset
+374,1.0,P. Bernardoni,FRA,18/04/97,Gar.,Angers,G. Baticle
+375,16.0,L. Butelle,FRA,3/04/83,Gar.,Angers,G. Baticle
+376,30.0,D. Petkovic,MNE,25/05/93,Gar.,Angers,G. Baticle
+377,25.0,A. Bamba,CIV,25/04/90,Déf.,Angers,G. Baticle
+378,20.0,K. Boma,FRA,20/11/02,Déf.,Angers,G. Baticle
+379,None,E. Diaw,SEN,31/12/94,Déf.,Angers,G. Baticle
+380,3.0,S. Doumbia,CIV,24/09/96,Déf.,Angers,G. Baticle
+381,6.0,E. Ebosse,FRA,11/03/99,Déf.,Angers,G. Baticle
+382,29.0,V. Manceau,FRA,10/07/89,Déf.,Angers,G. Baticle
+383,4.0,M. Pavlovic,CRO,9/06/90,Déf.,Angers,G. Baticle
+384,24.0,R. Thomas,FRA,12/06/88,Déf.,Angers,G. Baticle
+385,8.0,I. Traoré,CIV,18/08/86,Déf.,Angers,G. Baticle
+386,18.0,I. Amadou,FRA,6/04/93,Mil.,Angers,G. Baticle
+387,None,K. Bemanga,FRA,20/04/98,Mil.,Angers,G. Baticle
+388,23.0,A. Bobichon,FRA,14/09/95,Mil.,Angers,G. Baticle
+389,13.0,S. Boufal,MAR,17/09/93,Mil.,Angers,G. Baticle
+390,11.0,J. Cabot,FRA,18/04/94,Mil.,Angers,G. Baticle
+391,15.0,P. Capelle,FRA,15/04/87,Mil.,Angers,G. Baticle
+392,21.0,M. Cho,FRA,19/01/04,Mil.,Angers,G. Baticle
+393,14.0,L. Coulibaly,MLI,10/04/96,Mil.,Angers,G. Baticle
+394,10.0,A. Fulgini,FRA,20/08/96,Mil.,Angers,G. Baticle
+395,5.0,T. Mangani,FRA,29/04/87,Mil.,Angers,G. Baticle
+396,12.0,Z. Ould Khaled,FRA,14/01/00,Mil.,Angers,G. Baticle
+397,27.0,M. Pereira Lage,POR,30/11/96,Mil.,Angers,G. Baticle
+398,26.0,W. Taïbi,FRA,7/03/02,Mil.,Angers,G. Baticle
+399,7.0,R. Alioui,MAR,18/06/92,Att.,Angers,G. Baticle
+400,19.0,S. Bahoken,CAM,28/05/92,Att.,Angers,G. Baticle
+401,9.0,L. Diony,FRA,20/12/92,Att.,Angers,G. Baticle
+402,28.0,F. El-Melali,ALG,13/07/97,Att.,Angers,G. Baticle
+403,17.0,N. Fatar,FRA,15/02/02,Att.,Angers,G. Baticle
+404,31.0,Y. Fortuné,FRA,30/01/99,Att.,Angers,G. Baticle
+405,20.0,S. Thioub,SEN,1/06/95,Att.,Angers,G. Baticle
+406,16.0,Y. Diouf,FRA,16/11/99,Gar.,Reims,O. Garcia
+407,30.0,D. Ndiaye,FRA,4/04/99,Gar.,Reims,O. Garcia
+408,40.0,L. Pelletier,FRA,3/02/00,Gar.,Reims,O. Garcia
+409,1.0,P. Rajkovic,SER,31/10/95,Gar.,Reims,O. Garcia
+410,5.0,Y. Abdelhamid,MAR,28/09/87,Déf.,Reims,O. Garcia
+411,28.0,T. De Smet,BEL,5/06/98,Déf.,Reims,O. Garcia
+412,33.0,F. Doucouré,MLI,3/02/01,Déf.,Reims,O. Garcia
+413,2.0,W. Faes,BEL,3/04/98,Déf.,Reims,O. Garcia
+414,32.0,T. Foket,BEL,25/09/94,Déf.,Reims,O. Garcia
+415,3.0,G. Konan,CIV,27/12/95,Déf.,Reims,O. Garcia
+416,None,B. Locko,FRA,6/05/02,Déf.,Reims,O. Garcia
+417,29.0,D. Maresic,AUT,29/09/99,Déf.,Reims,O. Garcia
+418,36.0,P. Mbow,SEN,7/02/92,Déf.,Reims,O. Garcia
+419,35.0,E. Valentim,FRA,11/09/00,Déf.,Reims,O. Garcia
+420,14.0,V. Berisha,KOS,7/02/93,Mil.,Reims,O. Garcia
+421,24.0,M. Cafaro,FRA,25/03/97,Mil.,Reims,O. Garcia
+422,23.0,M. Cassama,GUB,16/02/98,Mil.,Reims,O. Garcia
+423,7.0,X. Chavalerin,FRA,7/03/91,Mil.,Reims,O. Garcia
+424,25.0,M. Doumbia,MLI,15/08/94,Mil.,Reims,O. Garcia
+425,36.0,M. Drammeh,FRA,15/05/99,Mil.,Reims,O. Garcia
+426,8.0,D. Kutesa,SUI,6/12/97,Mil.,Reims,O. Garcia
+427,34.0,D. Lopy,SEN,2/02/02,Mil.,Reims,O. Garcia
+428,15.0,M. Munetsi,ZIM,22/06/96,Mil.,Reims,O. Garcia
+429,35.0,M. Sakava,CAM,26/12/00,Mil.,Reims,O. Garcia
+430,10.0,A. Zeneli,KOS,25/02/95,Mil.,Reims,O. Garcia
+431,11.0,B. Dia,SEN,16/11/96,Att.,Reims,O. Garcia
+432,34.0,H. Ekitike,FRA,20/06/02,Att.,Reims,O. Garcia
+433,35.0,A. Flips,FRA,18/01/00,Att.,Reims,O. Garcia
+434,21.0,N. Mbuku,FRA,16/03/02,Att.,Reims,O. Garcia
+435,9.0,K. Sierhuis,HOL,27/04/98,Att.,Reims,O. Garcia
+436,27.0,E. Touré,MLI,3/10/01,Att.,Reims,O. Garcia
+437,None,A. Bellaarouch,MAR,1/01/02,Gar.,Strasbourg,J. Stephan
+438,30.0,B. Kamara,SEN,21/10/96,Gar.,Strasbourg,J. Stephan
+439,16.0,E. Kawashima,JAP,20/03/83,Gar.,Strasbourg,J. Stephan
+440,40.0,A. Pierre,FRA,25/02/01,Gar.,Strasbourg,J. Stephan
+441,1.0,M. Sels,BEL,26/02/92,Gar.,Strasbourg,J. Stephan
+442,29.0,I. Aaneba,FRA,29/05/99,Déf.,Strasbourg,J. Stephan
+443,19.0,A. Caci,FRA,1/07/97,Déf.,Strasbourg,J. Stephan
+444,23.0,L. Carole,FRA,12/04/91,Déf.,Strasbourg,J. Stephan
+445,24.0,A. Djiku,FRA,9/08/94,Déf.,Strasbourg,J. Stephan
+446,33.0,M. Elimbi Gilbert,FRA,20/02/03,Déf.,Strasbourg,J. Stephan
+447,4.0,F. Guilbert,FRA,24/12/94,Déf.,Strasbourg,J. Stephan
+448,5.0,L. Koné,CIV,1/02/89,Déf.,Strasbourg,J. Stephan
+449,13.0,S. Mitrovic,SER,22/05/90,Déf.,Strasbourg,J. Stephan
+450,None,A. Ousmane,FRA,22/02/00,Déf.,Strasbourg,J. Stephan
+451,34.0,M. Senaya,FRA,28/01/01,Déf.,Strasbourg,J. Stephan
+452,2.0,M. Simakan,FRA,3/05/00,Déf.,Strasbourg,J. Stephan
+453,6.0,J. Aholou,CIV,20/03/94,Mil.,Strasbourg,J. Stephan
+454,17.0,J. Bellegarde,FRA,27/06/98,Mil.,Strasbourg,J. Stephan
+455,None,B. Besic,BOS,2/06/02,Mil.,Strasbourg,J. Stephan
+456,21.0,M. Chahiri,FRA,25/07/96,Mil.,Strasbourg,J. Stephan
+457,34.0,A. Lebeau,FRA,26/01/98,Mil.,Strasbourg,J. Stephan
+458,11.0,D. Liénard,FRA,13/02/88,Mil.,Strasbourg,J. Stephan
+459,14.0,S. Prcic,BOS,20/11/93,Mil.,Strasbourg,J. Stephan
+460,18.0,M. Siby,FRA,7/07/96,Mil.,Strasbourg,J. Stephan
+461,27.0,I. Sissoko,FRA,27/10/97,Mil.,Strasbourg,J. Stephan
+462,33.0,N. Sommer,FRA,17/06/01,Mil.,Strasbourg,J. Stephan
+463,26.0,A. Thomasson,FRA,10/12/93,Mil.,Strasbourg,J. Stephan
+464,25.0,L. Ajorque,FRA,25/02/94,Att.,Strasbourg,J. Stephan
+465,28.0,H. Diallo,SEN,15/06/95,Att.,Strasbourg,J. Stephan
+466,12.0,L. Mothiba,AFS,28/01/96,Att.,Strasbourg,J. Stephan
+467,9.0,I. Saadi,ALG,8/02/92,Att.,Strasbourg,J. Stephan
+468,31.0,M. Sahi,MLI,20/12/01,Att.,Strasbourg,J. Stephan
+469,8.0,A. Waris,GHA,19/09/91,Att.,Strasbourg,J. Stephan
+470,20.0,K. Zohi,CIV,19/12/96,Att.,Strasbourg,J. Stephan
+471,16.0,T. Bartouche,FRA,5/06/97,Gar.,Lorient,C. Pelissier
+472,None,T. Callens,FRA,6/09/98,Gar.,Lorient,C. Pelissier
+473,1.0,M. Dreyer,FRA,20/03/89,Gar.,Lorient,C. Pelissier
+474,30.0,P. Nardi,FRA,18/05/94,Gar.,Lorient,C. Pelissier
+475,None,Y. Etienne,FRA,19/05/97,Déf.,Lorient,C. Pelissier
+476,5.0,T. Fontaine,MAD,8/05/91,Déf.,Lorient,C. Pelissier
+477,2.0,A. Gravillon,FRA,8/02/98,Déf.,Lorient,C. Pelissier
+478,14.0,J. Hergault,FRA,5/04/86,Déf.,Lorient,C. Pelissier
+479,None,J. Homawoo,FRA,12/11/97,Déf.,Lorient,C. Pelissier
+480,3.0,T. Ilori,POR,26/02/93,Déf.,Lorient,C. Pelissier
+481,15.0,J. Laporte,FRA,4/11/93,Déf.,Lorient,C. Pelissier
+482,25.0,V. Le Goff,FRA,15/10/89,Déf.,Lorient,C. Pelissier
+483,17.0,H. Mendes,FRA,4/05/98,Déf.,Lorient,C. Pelissier
+484,21.0,J. Morel,MAD,2/04/84,Déf.,Lorient,C. Pelissier
+485,33.0,L. Mouyokolo,FRA,22/05/01,Déf.,Lorient,C. Pelissier
+486,20.0,M. Saunier,FRA,7/02/90,Déf.,Lorient,C. Pelissier
+487,6.0,L. Abergel,FRA,1/02/93,Mil.,Lorient,C. Pelissier
+488,11.0,Q. Boisgard,FRA,17/03/97,Mil.,Lorient,C. Pelissier
+489,8.0,T. Chalobah,ANG,5/07/99,Mil.,Lorient,C. Pelissier
+490,22.0,J. Delaplace,FRA,20/03/86,Mil.,Lorient,C. Pelissier
+491,28.0,A. Laurienté,FRA,4/12/98,Mil.,Lorient,C. Pelissier
+492,10.0,E. Le Fée,FRA,3/02/00,Mil.,Lorient,C. Pelissier
+493,18.0,F. Lemoine,FRA,13/03/87,Mil.,Lorient,C. Pelissier
+494,12.0,S. Marveaux,FRA,15/04/86,Mil.,Lorient,C. Pelissier
+495,23.0,T. Monconduit,FRA,10/02/91,Mil.,Lorient,C. Pelissier
+496,24.0,F. Wadja,CAM,30/11/94,Mil.,Lorient,C. Pelissier
+497,7.0,S. Diarra,FRA,9/12/98,Att.,Lorient,C. Pelissier
+498,27.0,A. Grbic,AUT,4/08/96,Att.,Lorient,C. Pelissier
+499,29.0,P. Hamel,FRA,19/03/94,Att.,Lorient,C. Pelissier
+500,13.0,T. Moffi,NGA,25/05/99,Att.,Lorient,C. Pelissier
+501,19.0,Y. Wissa,FRA,3/09/96,Att.,Lorient,C. Pelissier
+502,16.0,S. Cibois,FRA,2/03/98,Gar.,Brest,M. Der Zakarian
+503,40.0,M. Hassen,TUN,5/03/95,Gar.,Brest,M. Der Zakarian
+504,1.0,G. Larsonneur,FRA,23/02/97,Gar.,Brest,M. Der Zakarian
+505,24.0,L. Baal,FRA,24/05/86,Déf.,Brest,M. Der Zakarian
+506,17.0,D. Bain,FRA,2/07/93,Déf.,Brest,M. Der Zakarian
+507,24.0,L. Brassier,FRA,2/11/99,Déf.,Brest,M. Der Zakarian
+508,5.0,B. Chardonnet,FRA,22/12/94,Déf.,Brest,M. Der Zakarian
+509,2.0,J. Duverne,FRA,12/07/97,Déf.,Brest,M. Der Zakarian
+510,22.0,J. Faussurier,FRA,14/01/87,Déf.,Brest,M. Der Zakarian
+511,23.0,C. Hérelle,FRA,22/08/92,Déf.,Brest,M. Der Zakarian
+512,18.0,R. Perraud,FRA,22/09/97,Déf.,Brest,M. Der Zakarian
+513,20.0,R. Pierre-Gabriel,FRA,13/06/98,Déf.,Brest,M. Der Zakarian
+514,7.0,H. Belkebla,ALG,28/01/94,Mil.,Brest,M. Der Zakarian
+515,None,K. Benvindo,FRA,None,Mil.,Brest,M. Der Zakarian
+516,4.0,I. Dioh,FRA,21/01/99,Mil.,Brest,M. Der Zakarian
+517,29.0,B. Fadiga,FRA,15/01/01,Mil.,Brest,M. Der Zakarian
+518,21.0,R. Faivre,FRA,14/07/98,Mil.,Brest,M. Der Zakarian
+519,6.0,Jean Lucas,BRE,22/06/98,Mil.,Brest,M. Der Zakarian
+520,8.0,P. Lasne,FRA,16/01/89,Mil.,Brest,M. Der Zakarian
+521,27.0,H. Magnetti,FRA,30/05/98,Mil.,Brest,M. Der Zakarian
+522,28.0,H. Mbock,FRA,28/12/99,Mil.,Brest,M. Der Zakarian
+523,19.0,F. N'Goma,FRA,15/06/93,Mil.,Brest,M. Der Zakarian
+524,12.0,R. Philippoteaux,FRA,2/03/88,Mil.,Brest,M. Der Zakarian
+525,None,D. Bangoura,FRA,27/12/01,Att.,Brest,M. Der Zakarian
+526,14.0,I. Cardona,FRA,8/08/97,Att.,Brest,M. Der Zakarian
+527,10.0,G. Charbonnier,FRA,27/12/88,Att.,Brest,M. Der Zakarian
+528,9.0,F. Honorat,FRA,11/08/96,Att.,Brest,M. Der Zakarian
+529,26.0,J. Le Douaron,FRA,21/04/98,Att.,Brest,M. Der Zakarian
+530,15.0,S. Mounié,BEN,29/09/94,Att.,Brest,M. Der Zakarian
+531,1.0,A. Lafont,FRA,23/01/99,Gar.,Nantes,A. Kambouaré
+532,30.0,D. Petric,SLN,24/05/88,Gar.,Nantes,A. Kambouaré
+533,12.0,D. Appiah,FRA,9/06/92,Déf.,Nantes,A. Kambouaré
+534,15.0,T. Basila,FRA,30/04/99,Déf.,Nantes,A. Kambouaré
+535,21.0,J. Castelletto,CAM,26/01/95,Déf.,Nantes,A. Kambouaré
+536,24.0,S. Corchia,FRA,1/11/90,Déf.,Nantes,A. Kambouaré
+537,2.0,D. Fabio,BRE,9/07/90,Déf.,Nantes,A. Kambouaré
+538,3.0,A. Girotto,BRE,17/02/92,Déf.,Nantes,A. Kambouaré
+539,15.0,B. Mendy,FRA,12/01/00,Déf.,Nantes,A. Kambouaré
+540,4.0,N. Pallois,FRA,19/09/87,Déf.,Nantes,A. Kambouaré
+541,None,A. Sylla,GUI,10/04/00,Déf.,Nantes,A. Kambouaré
+542,14.0,C. Traoré,MLI,1/01/92,Déf.,Nantes,A. Kambouaré
+543,None,A. Walongwa,RDC,15/10/93,Déf.,Nantes,A. Kambouaré
+544,10.0,L. Blas,FRA,31/12/98,Mil.,Nantes,A. Kambouaré
+545,5.0,P. Chirivella,ESP,23/05/97,Mil.,Nantes,A. Kambouaré
+546,11.0,M. Coco,FRA,24/06/96,Mil.,Nantes,A. Kambouaré
+547,17.0,A. Limbombe,BEL,15/07/94,Mil.,Nantes,A. Kambouaré
+548,26.0,I. Louza,FRA,1/05/99,Mil.,Nantes,A. Kambouaré
+549,16.0,Q. Merlin,FRA,16/05/02,Mil.,Nantes,A. Kambouaré
+550,6.0,R. Pereira de Sa,FRA,10/12/96,Mil.,Nantes,A. Kambouaré
+551,19.0,A. Touré,FRA,3/03/94,Mil.,Nantes,A. Kambouaré
+552,20.0,J. Augustin,FRA,16/06/97,Att.,Nantes,A. Kambouaré
+553,32.0,A. Bamba,FRA,25/05/94,Att.,Nantes,A. Kambouaré
+554,7.0,K. Coulibaly,MLI,21/08/91,Att.,Nantes,A. Kambouaré
+555,28.0,R. Emond,BEL,5/12/91,Att.,Nantes,A. Kambouaré
+556,23.0,R. Kolo Muani,FRA,5/12/98,Att.,Nantes,A. Kambouaré
+557,22.0,B. Ndilu,FRA,21/07/00,Att.,Nantes,A. Kambouaré
+558,27.0,M. Simon,NGA,12/07/95,Att.,Nantes,A. Kambouaré
+559,None,L. Dias,FRA,22/05/99,Gar.,Nîmes,P. Plancque
+560,None,A. Nazih,FRA,18/01/02,Gar.,Nîmes,P. Plancque
+561,None,B. Reynet,FRA,28/10/90,Gar.,Nîmes,P. Plancque
+562,None,S. Alakouch,FRA,29/07/98,Déf.,Nîmes,P. Plancque
+563,None,A. Briançon,FRA,29/11/94,Déf.,Nîmes,P. Plancque
+564,None,P. Burner,FRA,11/04/96,Déf.,Nîmes,P. Plancque
+565,None,K. Guessoum,FRA,5/02/99,Déf.,Nîmes,P. Plancque
+566,None,L. Landre,FRA,5/05/92,Déf.,Nîmes,P. Plancque
+567,None,A. Malanda,FRA,29/10/01,Déf.,Nîmes,P. Plancque
+568,None,P. Martinez,FRA,21/02/89,Déf.,Nîmes,P. Plancque
+569,None,B. Meling,NOR,17/12/94,Déf.,Nîmes,P. Plancque
+570,None,F. Miguel,FRA,1/09/96,Déf.,Nîmes,P. Plancque
+571,None,G. Paquiez,FRA,15/02/94,Déf.,Nîmes,P. Plancque
+572,None,R. Ripart,FRA,14/03/93,Déf.,Nîmes,P. Plancque
+573,None,N. Ueda,JAP,24/10/94,Déf.,Nîmes,P. Plancque
+574,None,M. Ahlinvi,FRA,2/07/99,Mil.,Nîmes,P. Plancque
+575,None,Y. Benrahou,FRA,24/01/99,Mil.,Nîmes,P. Plancque
+576,None,L. Buades,FRA,28/12/97,Mil.,Nîmes,P. Plancque
+577,None,A. Cubas,PAR,22/05/96,Mil.,Nîmes,P. Plancque
+578,None,L. Deaux,FRA,26/12/88,Mil.,Nîmes,P. Plancque
+579,None,H. Duljevic,BOS,16/11/93,Mil.,Nîmes,P. Plancque
+580,None,N. Eliasson,SUE,7/12/95,Mil.,Nîmes,P. Plancque
+581,None,Z. Ferhat,ALG,1/03/93,Mil.,Nîmes,P. Plancque
+582,None,L. Fomba,FRA,26/01/98,Mil.,Nîmes,P. Plancque
+583,None,S. Sarr,SEN,5/06/96,Mil.,Nîmes,P. Plancque
+584,None,A. Valerio,FRA,11/12/99,Mil.,Nîmes,P. Plancque
+585,None,K. Aribi,ALG,24/06/94,Att.,Nîmes,P. Plancque
+586,None,S. Ben Amar,FRA,2/03/98,Att.,Nîmes,P. Plancque
+587,None,N. Chadli,FRA,28/07/01,Att.,Nîmes,P. Plancque
+588,None,C. Depres,FRA,25/11/94,Att.,Nîmes,P. Plancque
+589,None,M. Doucouré,FRA,22/05/00,Att.,Nîmes,P. Plancque
+590,None,M. Koné,SEN,30/12/97,Att.,Nîmes,P. Plancque
+591,None,M. Majouga,FRA,9/05/01,Att.,Nîmes,P. Plancque
+592,None,N. Roux,FRA,1/03/88,Att.,Nîmes,P. Plancque
+593,None,S. Allagbé,BEN,22/11/93,Gar.,Dijon,D. Linares
+594,None,L. Ntumba,FRA,12/01/01,Gar.,Dijon,D. Linares
+595,None,A. Racioppi,SUI,31/12/98,Gar.,Dijon,D. Linares
+596,None,S. Boey,FRA,13/09/00,Déf.,Dijon,D. Linares
+597,None,F. Chafik,MAR,16/10/86,Déf.,Dijon,D. Linares
+598,None,A. Chala,EQU,9/05/96,Déf.,Dijon,D. Linares
+599,None,S. Coulibaly,FRA,4/09/94,Déf.,Dijon,D. Linares
+600,None,B. Ecuele Manga,GAB,16/07/88,Déf.,Dijon,D. Linares
+601,None,W. Lautoa,FRA,25/08/87,Déf.,Dijon,D. Linares
+602,None,G. Ngonda Muzinga,RDC,31/12/94,Déf.,Dijon,D. Linares
+603,None,A. Ngouyamsa,CAM,21/12/00,Déf.,Dijon,D. Linares
+604,None,J. Panzo,ANG,25/10/00,Déf.,Dijon,D. Linares
+605,None,A. Arli,TUR,5/01/03,Mil.,Dijon,D. Linares
+606,None,R. Assalé,CIV,13/11/93,Mil.,Dijon,D. Linares
+607,None,Y. Benzia,ALG,8/09/94,Mil.,Dijon,D. Linares
+608,None,B. Celina,KOS,9/09/96,Mil.,Dijon,D. Linares
+609,None,C. Costes,FRA,16/09/02,Mil.,Dijon,D. Linares
+610,None,E. Dina Ebimbe,FRA,21/11/00,Mil.,Dijon,D. Linares
+611,None,P. Diop,SEN,8/08/97,Mil.,Dijon,D. Linares
+612,None,M. Dobre,ROU,30/08/98,Mil.,Dijon,D. Linares
+613,None,A. Kamara,FRA,7/03/95,Mil.,Dijon,D. Linares
+614,None,J. Marié,FRA,29/09/91,Mil.,Dijon,D. Linares
+615,None,D. Ndong,GAB,17/06/94,Mil.,Dijon,D. Linares
+616,None,F. Sammaritano,FRA,23/03/86,Mil.,Dijon,D. Linares
+617,None,W. Younoussa,CAM,9/09/01,Mil.,Dijon,D. Linares
+618,None,A. Zagré,FRA,4/10/01,Mil.,Dijon,D. Linares
+619,None,M. Baldé,GUB,6/11/95,Att.,Dijon,D. Linares
+620,None,E. Belhadji,FRA,23/06/01,Att.,Dijon,D. Linares
+621,None,M. Chouiar,FRA,23/01/99,Att.,Dijon,D. Linares
+622,None,M. Konaté,SEN,3/04/93,Att.,Dijon,D. Linares
+623,None,J. Siwe,FRA,29/07/01,Att.,Dijon,D. Linares
